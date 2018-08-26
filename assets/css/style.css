@@ -1,0 +1,11 @@
+body {
+    background-image: url("../images/background.jpg");
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    padding: 20px 0px;
+}
